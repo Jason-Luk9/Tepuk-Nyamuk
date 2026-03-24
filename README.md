@@ -29,3 +29,9 @@ Built to preserve a piece of Indonesian childhood culture and bring it to a glob
 
 ## How to Run
 Open `Tepuk Nyamuk.swiftpm` in Xcode and run on simulator or device.
+
+## Demo
+<img width="642" height="1389" alt="HomeView" src="https://github.com/user-attachments/assets/b54ba953-c713-444f-aa74-370a0eec2b1d" />
+<img width="642" height="1389" alt="PlayView" src="https://github.com/user-attachments/assets/7d08816b-b612-4ff6-8002-978758354608" />
+<img width="642" height="1389" alt="ResultView" src="https://github.com/user-attachments/assets/c23fe670-91e3-4918-aa48-112fc53c0daf" />
+
